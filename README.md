@@ -32,21 +32,12 @@ A sleek, full-featured **E-commerce web app** with a responsive **User Frontend*
 
 ## 🧰 Tech Stack
 
-- **Frontend:** React.js, Tailwind CSS, React Router
-- **Admin Panel:** React.js, Tailwind CSS, Context API
+- **Frontend:** Next.js, Tailwind CSS, React Router
+- **Admin Panel:** Next.js, Tailwind CSS, Context API
 - **Backend & API:** *(To be added / integrated – e.g., Node.js, Express, MongoDB, Firebase, etc.)*
 - **Deployment:** Vercel
 
 ---
 
-## 🖼️ Screenshots
 
-> *(Add your own UI screenshots here to show off both the user and admin interfaces)*  
-> Example:
-> ![Frontend Screenshot](./assets/frontend-screenshot.png)  
-> ![Admin Dashboard Screenshot](./assets/admin-screenshot.png)
-
----
-
-## 📦 Project Structure
 
